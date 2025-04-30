@@ -1,6 +1,6 @@
-## Projects
+# Projects
 
-### 팀 프로젝트
+## 팀 프로젝트
 
 - [mini-shell](https://github.com/AhnJoonSung/mini-shell)  
   C 기반의 POSIX shell 구현. 파이프, 리디렉션, 환경 변수, 시그널 처리 등 핵심 기능 직접 구현.
@@ -14,20 +14,17 @@
 - [BoardPick-server](https://github.com/BoardPick/BoardPick-server)  
   사용자 맞춤 보드게임 정보 제공 서비스. Spring Boot를 기반으로 API 서버 작성. OAuth 2.0, JWT 기반 인증, JPA, CI/CD 파이프라인 구성, Docker 기반 자동 배포 포함.
 
----
+- 웹 게임 플랫폼 (MSA)
+  > 해당 프로젝트는 MSA로 설계되었으며, Django REST framework, WebSocket, Redis, PostgreSQL, Docker Compose, Nginx를 포함함.
 
-### 웹 게임 플랫폼 (MSA)
-
-- [chat](https://github.com/supershy42/chat)  
+  - [chat](https://github.com/supershy42/chat)  
   WebSocket(Django Channels) 및 Redis 기반의 실시간 채팅 서버. JWT 인증, WebSocket 기반의 실시간 메시지 멀티캐스트, DB를 통한 채팅방 단위의 채팅 내역 관리
 
-- [game](https://github.com/supershy42/game)  
+  - [game](https://github.com/supershy42/game)  
   WebSocket(Django Channels) 및 Redis 기반의 실시간 게임 로직 처리 서버. 게임방 생성 및 참가, 초대 기능, WebSocket 기반의 실시간 플레이 데이터 처리, 1대1 및 토너먼트 방식의 게임 진행 구현, 사용자 별 대전 기록 저장.
 
-- [user](https://github.com/supershy42/user)  
+  - [user](https://github.com/supershy42/user)  
   WebSocket(Django Channels) 및 Redis 기반의 사용자 관리 서버. 회원 가입, 이메일 인증, 로그인, 실시간 알림, 친구 요청/수락/차단 지원.
-
-> 해당 프로젝트는 MSA로 설계되었으며, Django REST framework, WebSocket, Redis, PostgreSQL, Docker Compose, Nginx를 포함함.
 
 ---
 
