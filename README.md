@@ -91,6 +91,8 @@
 
 ---
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdtna01)](https://solved.ac/tjdtna01/)
+
 <!--
 **AhnJoonSung/AhnJoonSung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
