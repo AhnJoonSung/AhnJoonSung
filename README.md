@@ -23,7 +23,7 @@
 
 #### [멀티스레드로 구현한 철학자 식사 문제](https://github.com/AhnJoonSung/philosophers) | C, pthread | (2023.12 – 2023.12)
 
-#### [제한 명령어로 정수 배열을 정렬하는 알고리즘 구현](https://github.com/AhnJoonSung/PushSwap) | C | (2023.08 – 2023.08)
+#### [제한된 명령어로 순열을 정렬하는 알고리즘 구현](https://github.com/AhnJoonSung/PushSwap) | C | (2023.08 – 2023.08)
 
 
 ---
