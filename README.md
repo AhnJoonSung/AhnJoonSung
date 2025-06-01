@@ -41,7 +41,7 @@
 [velog](https://velog.io/@tjdtna01/posts)
 
 
-## ⌨ Projects
+## Projects
 ### 웹 게임 플랫폼 (MSA)
 - #### [실시간 채팅 관련 기능을 담당하는 서비스](https://github.com/supershy42/chat) | Python, Django REST Framework, WebSocket, PostgreSQL, Redis | (2024.10 – 2025.01)
 
