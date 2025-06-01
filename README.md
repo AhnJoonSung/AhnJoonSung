@@ -1,11 +1,11 @@
 # 안녕하세요, 안준성입니다.
 
-## 🪑 Career
+## Career
 - **Drimsys** <sub>developer</sub> (2025.03 ~ Now)
 - **42Seoul** <sub>member</sub> (2023.02 ~ Now)
 - **금오공과대학교** <sub>컴퓨터소프트웨어공학</sub> (2015.03. ~ 2021.02.)
 
-## 🛠 Skills
+## Skills
 - Programming Language
 
   ![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
@@ -37,8 +37,8 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-## 🔗 Tech Blog
-[![Velog](https://img.shields.io/badge/Tech_Blog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@tjdtna01/posts)
+## Tech Blog
+[Velog](https://velog.io/@tjdtna01/posts)
 
 
 ## ⌨ Projects
