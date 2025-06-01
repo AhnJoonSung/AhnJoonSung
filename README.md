@@ -38,7 +38,7 @@
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ## Tech Blog
-[Velog](https://velog.io/@tjdtna01/posts)
+[velog](https://velog.io/@tjdtna01/posts)
 
 
 ## ⌨ Projects
