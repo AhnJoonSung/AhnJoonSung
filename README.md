@@ -1,5 +1,3 @@
-# 안녕하세요, 안준성입니다.
-
 ## Career
 - **(주)Drimsys** <sub>developer</sub> (2025.03 ~ Now)
 - **42Seoul** <sub>member</sub> (2023.02 ~ Now)
