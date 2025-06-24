@@ -1,8 +1,3 @@
-## Career
-- **(주)Drimsys** <sub>developer</sub> (2025.03 ~ Now)
-- **42Seoul** <sub>member</sub> (2023.02 ~ Now)
-- **금오공과대학교** <sub>컴퓨터소프트웨어공학</sub> (2015.03. ~ 2021.02.)
-
 ## Skills
 - Programming Language
 
