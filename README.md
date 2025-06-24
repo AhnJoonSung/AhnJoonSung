@@ -1,3 +1,6 @@
+## Tech Blog
+[velog](https://velog.io/@tjdtna01/posts)
+
 ## Skills
 - Programming Language
 
@@ -27,10 +30,6 @@
 - etc
 
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-## Tech Blog
-[velog](https://velog.io/@tjdtna01/posts)
-
 
 ## Projects
 ### 웹 게임 플랫폼 (MSA)
