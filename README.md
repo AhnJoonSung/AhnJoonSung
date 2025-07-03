@@ -1,6 +1,3 @@
-## ![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white) [기술 블로그](https://velog.io/@tjdtna01/posts)
-
-
 ## 기술 스택
 #### Programming Language
 ![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
