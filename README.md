@@ -1,6 +1,6 @@
 <!-- Intro -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7FBCD2&height=200&section=header&text=안준성&fontSize=30&fontAlignY=40&desc=&descAlignY=65&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7FBCD2&height=200&section=header&text=안준성입니다&fontSize=30&fontAlignY=40&desc=&descAlignY=65&animation=twinkling" />
 
 <p align="center">
   <a href="https://velog.io/@tjdtna01/posts">
