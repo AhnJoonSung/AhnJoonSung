@@ -2,18 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FBCD2&height=200&section=header&text=안준성입니다&fontSize=30&fontAlignY=40&desc=&descAlignY=65&animation=twinkling" />
 
-<p align="center">
-  <a href="https://velog.io/@tjdtna01/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-  </a>
-  <a href="mailto:tjdtna01@naver.com">
-    <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  </a>
-</p>
 
----
-
-###  🔧  기술 스택
+##  🔧  기술 스택
 **Programming Language**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -43,15 +33,16 @@
 
 ---
 
-### [Portfolio](https://ahnjoonsung.github.io/Portfolio/portfolio)
+## [Portfolio](https://ahnjoonsung.github.io/Portfolio/portfolio)
 
----
 
-### [Resume](https://ahnjoonsung.github.io/Portfolio/resume/)
+## [Resume](https://ahnjoonsung.github.io/Portfolio/resume/)
 
----
 
-### 💡 Algorithm
+## [블로그](https://velog.io/@tjdtna01/posts)
+
+
+## 💡 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdtna01)](https://solved.ac/tjdtna01/)
 
 
