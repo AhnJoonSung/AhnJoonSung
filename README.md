@@ -36,7 +36,7 @@
 ## [Portfolio](https://ahnjoonsung.github.io/Portfolio/portfolio)
 
 
-## [Resume](https://ahnjoonsung.github.io/Portfolio/resume/)
+## [경력 기술서](https://ahnjoonsung.github.io/Portfolio/resume/)
 
 
 ## [블로그](https://velog.io/@tjdtna01/posts)
